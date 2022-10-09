@@ -1,1 +1,1 @@
-My first readme
+Readme on optional vagrant updated 
